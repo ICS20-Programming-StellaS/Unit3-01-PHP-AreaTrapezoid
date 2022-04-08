@@ -1,0 +1,43 @@
+/* Created by: Stella S
+* Created on: Apr 2022
+* This CSS file defines the style for index.php
+* Unit3-01-PHP-AreaTrapezoid
+*/
+
+body {
+	background-color: rgb(206, 237, 234);
+}
+
+h1 {
+	background-color: rgb(255, 255, 255);
+	color: hsl(273, 100%, 17%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #f0fcff;
+  padding: 20px;
+}
+
+
+#display-results{
+  background-color: #e2f7fd;
+	color: hsl(273, 100%, 94%);
+}
+
+form {
+  background-color: #fcfcfc;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+iframe {
+  background-color: #d6d6d6;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#display-results{
+  background-color: #e0f8ff;
+}
